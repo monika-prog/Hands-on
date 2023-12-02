@@ -1,0 +1,159 @@
+{
+    "shows" : [
+        {
+            "name": "ASUR",
+            "image": "ott project images/TV/asur.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Big Boss",
+            "image": "ott project images/TV/big boss.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Kota Factory",
+            "image": "ott project images/TV/Kota factory.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "lucifer",
+            "image": "ott project images/TV/lucifer.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Money Heist",
+            "image": "ott project images/TV/money heist.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Sacred Games",
+            "image": "ott project images/TV/sacred games.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Squid Games",
+            "image": "ott project images/TV/squid games.jpg",
+            "type": "TV"
+        },
+        {
+            "name": "Black Water",
+            "image": "ott project images/Thriller/Black water.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Close",
+            "image": "ott project images/Thriller/close.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Death Of Me",
+            "image": "ott project images/Thriller/Death of me.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Extraction",
+            "image": "ott project images/Thriller/extraction.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Game Over",
+            "image": "ott project images/Thriller/Game over.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Guilty",
+            "image": "ott project images/Thriller/guilty.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Platform",
+            "image": "ott project images/Thriller/platform.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Vivarium",
+            "image": "ott project images/Thriller/vivarium.jpg",
+            "type": "Thriller"
+        },
+        {
+            "name": "Bosh",
+            "image": "ott project images/Thriller/Bosh.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "Home Comming",
+            "image": "ott project images/Thriller/Home Comming.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "Image",
+            "image": "ott project images/Thriller/image.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "Invincible",
+            "image": "ott project images/Thriller/invincible.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "The Boys",
+            "image": "ott project images/Thriller/The boys.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "The Expanse",
+            "image": "ott project images/Thriller/the expanse.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "The Wilds",
+            "image": "ott project images/Thriller/The wilds.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "Undone",
+            "image": "ott project images/Thriller/undone.jpg",
+            "type": "Prime Shows"
+        },
+        {
+            "name": "Anabelle HINDI",
+            "image": "ott project images/movies/anabelle-hind.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "Bhoot Police",
+            "image": "ott project images/movies/b-police.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "BHUJ",
+            "image": "ott project images/movies/bhuj.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "Black Widow(H)",
+            "image": "ott project images/movies/black-widow.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "D.O.T.A",
+            "image": "ott project images/movies/DOTA.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "Fire In The Blood",
+            "image": "ott project images/movies/FIRE in the blood.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "Imperial-1",
+            "image": "ott project images/movies/i1.jpg",
+            "type": "Movies"
+        },
+        {
+            "name": "TUSK",
+            "image": "ott project images/movies/TUSK.jpg",
+            "type": "Movies"
+        }
+    ]
+}

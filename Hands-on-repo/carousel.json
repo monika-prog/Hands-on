@@ -1,0 +1,25 @@
+{
+    "carousel" : [
+        {
+            "href" : "sacredgames.html",
+            "src" : "ott project images/carousel/i1.png",
+            "alt" : "carousel-image",
+            "name" : "Sacred Games",
+            "description" : "Sacred Games is an Indian Hindi-language crime thriller streaming television<br/> series based on Vikram Chandra's 2006 novel of the same name. " 
+        },
+        {
+            "href" : "squidgames.html",
+            "src" : "ott project images/carousel/i2.jpg",
+            "alt" : "carousel-image",
+            "name" : "Squid Games",
+            "description" : "Squid Game is a South Korean survival drama television <br/> series streaming on Netflix. Written and directed by Hwang Dong-hyuk "
+        },
+        {
+            "href" : "Dinothunder.html",
+            "src" : "ott project images/carousel/i3.jpg",
+            "alt" : "carousel-image",
+            "name" : "Girl House",
+            "description" : "Girl House is a 2014 Canadian horror slasher film <br/> directed by Trevor Matthews and written by Nick Gordon."
+        }
+    ]
+}

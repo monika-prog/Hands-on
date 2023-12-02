@@ -1,0 +1,46 @@
+{
+    "movie" : [
+       
+        {   "name" : "BLACK WATER",
+            "src" : "ott project images/Thriller/Black water.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "CLOSE",
+            "src" : "ott project images/Thriller/close.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "GUILTY",
+            "src" : "ott project images/Thriller/guilty.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "PLATFORM",
+            "src" : "ott project images/Thriller/Platform.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "EXTRACTION",
+            "src" : "ott project images/Thriller/extraction.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "PLATFORM",
+            "src" : "ott project images/Thriller/Platform.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        },
+        {   "name" : "VIVARIUM",
+            "src" : "ott project images/Thriller/vivarium.jpg",
+            "alt" : "image",
+            "href" : "https://www.youtube.com/watch?v=1ZTShnS3Uss"
+        }
+
+
+
+
+
+
+    ]
+}

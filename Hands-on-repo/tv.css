@@ -1,0 +1,10 @@
+@import url("xss.css");
+body{
+    background-color: var(--navbar-color);
+}
+.c4{
+    transition: 0.1s all;
+}
+.c4:hover{
+    transform: scale(1.2);
+}

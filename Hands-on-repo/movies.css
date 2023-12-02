@@ -1,0 +1,39 @@
+@import url("xss.css");
+body{
+    background-color: var(--fadeNav);
+}
+.cnt{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    flex: 1 1 10%;
+}
+
+.modetails{
+    color: var(--white);
+    transform: translateY(-100px);
+    opacity: 0;
+    padding-left: 1%;
+}
+.movie-slide:hover .modetails{
+    opacity: 1;
+}
+.movie-slide{
+    padding-right: 1%;
+}
+.c3{
+   transition: 500ms all;
+   padding: 1%;
+}
+.c3:hover{
+    transform: scale(1.05);
+}
+.movie-slide img{
+    width: 100%;
+    height: 100%;
+    padding-right: 2%;
+    object-fit: cover;
+}
+.movie-slide:hover img{
+    opacity: 0.3;
+}

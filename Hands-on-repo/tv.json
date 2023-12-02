@@ -1,0 +1,40 @@
+{
+    "TV" : [
+        {
+            "src" : "ott project images/TV/asur.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/big boss.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/Kota factory.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/lucifer.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/money heist.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/sacred games.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        },
+        {
+            "src" : "ott project images/TV/squid games.jpg",
+            "alt" : "img",
+            "href" : "https://www.youtube.com/watch?v=JWbnEt3xuos"
+        }
+        
+    ]
+}

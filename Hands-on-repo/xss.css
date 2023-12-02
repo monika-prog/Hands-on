@@ -1,0 +1,329 @@
+:root{
+    --navbar-color: rgb(0,0,128);
+    --white: #fff;
+    --chinese-silver: #ccc;
+    --red: #FF0000;
+    --fadeNav: rgba(0,0,128,0.9);
+    --tileBorderRadius: 4px;
+}
+
+
+
+body{
+    box-sizing: content-box;
+}
+
+.navbar{
+    width: 100%;
+    height: auto;
+    background-color: var(--navbar-color);
+    position: sticky;
+    top: 0;
+    left: 0;
+}
+.topnav a {
+    float: left;
+    display: block;
+    color:  var(--white);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav .search-container {
+    float: right;
+  }
+  .search-container{
+      padding-right: 4.5em;
+  }
+  .topnav input[type=text] {
+    padding: 6px;
+    margin-top: 8px;
+    font-size: 17px;
+    border: none;
+  }
+  .topnav .search-container button:hover {
+    background: var(--chinese-silver);
+  }
+  
+.topnav a:hover{
+    font-size: large;
+    color: var(--red);
+}
+.topnav {
+    overflow: hidden;
+}
+.loginbtn{
+    float: right;
+    padding-right: 6em;
+}
+.slideshow-container {
+    width: 100%;
+    height: auto;
+  
+  }
+ .carousel-image{
+     width: auto;
+     height: 100%;
+     
+ }
+.image-wrapper {
+  display: flex;
+  justify-content: left;
+ 
+  height: 500px;
+  width: 100%;
+  background-color: var(--navbar-color);
+  object-fit: fill;
+}
+.aside-left{
+  position: absolute;
+  margin-top: -400px;
+  right: 3em;
+  height: 5%;
+  color: var(--white);
+}
+
+.watchnow::before{
+  content: '\25B6';
+  padding-right: 0.5em;
+}
+.desc{
+  padding-bottom: 1em;
+}
+.newrelease, .originals, .mostviewed {
+ padding-left: 1%;
+ padding-top: 1%;
+ font-weight: bolder;
+ font-size: 2.2em;
+ color: var(--white);
+ 
+}
+.content , .cntnt , .channels{
+  background-color:var(--fadeNav);
+  width: auto;
+  height: 100%;
+  display: flex;
+ flex-wrap: wrap;
+}
+h1{
+  background-color: var(--fadeNav);
+}
+.card,.crd , .box-slide {
+ 
+ 
+  width: 14%;
+  display: flex;
+ 
+ padding: 1%;
+ justify-content: left;
+ 
+ 
+}
+
+
+.card img , .box-slide img {
+  width: 100%;
+  height: 100%;
+  
+  
+}
+
+.c1 {
+  transition: 0.3s all;
+  
+}
+.c1:hover{
+  transform: scale(1.09);
+}
+
+.overlay{
+  display: none;
+}
+
+.originals{
+ 
+  font-weight: bolder;
+  font-size: 2em;
+  color: var(--white);
+ 
+}
+.newreleaseanchor{
+  height: 100%;
+  width: 100%;
+  display: block;
+}
+.swiper::-webkit-scrollbar {
+  display: none;
+}
+
+.swiper{
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: auto;
+  padding: 20px;
+  flex-wrap: nowrap;
+  background-color: var(--fadeNav);
+}
+
+.swiper-slide .netflix-images {
+  margin-right: 10px;
+  transition: tranform 450ms;
+}
+
+.swiper-slide:hover .netflix-images {
+  transform: scale(1.08);
+  opacity: 0.4;
+}
+
+.swiper-slide .details {
+  transform: translateY(-100px);
+  opacity: 0;
+  color: var(--white);
+}
+
+.swiper-slide:hover .details {
+  opacity: 1;
+}
+
+
+.foot{
+  background-color: var(--fadeNav);
+  width: auto;
+ color: var(--white);
+ padding: 1%;
+}
+
+
+
+
+ 
+
+@media screen and (max-width: 600px) {
+    .topnav .search-container {
+      float: none;
+      padding: 0.5em 0.5em;
+    }
+    .topnav a{
+    float: none;
+    display: none;
+    text-align: left;
+    width: 100%;
+    margin: 0;
+    padding: 4px;
+    }
+    
+    .carousel-image{
+      width: auto;
+      height: 100%;
+  }
+ .image-wrapper {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   height: 150px;
+   width: 100%;
+   
+ }
+ .aside-left{
+  text-align: center;
+  width: auto;
+  height: 5%;
+  
+  color: var(--white);
+}
+ .desc{
+  padding-bottom: 1em;
+}
+
+.newrelease, .originals, .mostviewed {
+  padding-left: 0.5%;
+  padding-top: 0.5%;
+  font-weight: bolder;
+  font-size: 1.1em;
+  color: var(--white);
+  
+ }
+ .content , .cntnt{
+   background-color:var(--fadeNav);
+   width: auto;
+   height: 100%;
+   display: flex;
+  flex-wrap: wrap;
+ }
+ h1{
+   background-color: var(--fadeNav);
+ }
+ .card,.crd {
+  
+  
+   width: 300px;
+   display: flex;
+  
+  padding: 0.5%;
+  
+  flex: 1 1 26%;
+  
+ }
+ 
+ .card img {
+   width: 100%;
+   height: 100%;
+   max-width: 100%;
+   max-height: 100%;
+ }
+ 
+ .c1 , .c2{
+   transition: 0.3s all;
+   max-width: 100%;
+   
+ }
+ .c1:hover{
+   transform: scale(1.09);
+ }
+
+ 
+ .originals{
+  
+   font-weight: bolder;
+   font-size: 1em;
+   color: var(--white);
+  
+ }
+ .swiper::-webkit-scrollbar {
+  display: none;
+}
+.foot{
+  font-size: 0.1em;
+  font-weight: 0.1em;
+}
+
+.swiper{
+  display: flex;
+  overflow-y: hidden;
+  overflow-x: auto;
+  padding: 10px;
+  flex-wrap: nowrap;
+  background-color: var(--fadeNav);
+}
+
+.swiper-slide .netflix-images {
+  margin-right: 5px;
+  padding: 2%;
+}
+
+.swiper-slide:hover .netflix-images {
+  display: none;
+}
+
+.swiper-slide .details{
+  display: none;
+}
+
+.swiper-slide:hover .details {
+  display: none;
+}
+
+}
+
+

@@ -1,0 +1,36 @@
+{
+    "newrelease" : [
+        {
+            "src" : "ott project images/movies/anabelle-hind.jpg",
+            "alt" : "new avtar",
+            "class" : "c1",
+            "href" : "https://www.youtube.com/watch?v=3JG7xAfjuak"
+        },
+        {
+            "src" : "ott project images/movies/b-police.jpg",
+            "alt" : "new avtar",
+            "class" : "c1",
+            "href" : "https://www.youtube.com/watch?v=-j7mGq3s3eA"
+        },
+        {
+            "src" : "ott project images/movies/bhuj.jpg",
+            "alt" : "new avtar",
+            "class" : "c1",
+            "href" : "https://www.youtube.com/watch?v=3JG7xAfjuak"
+        },
+        {
+            "src" : "ott project images/movies/DOTA.jpg",
+            "alt" : "new avtar",
+            "class" : "c1",
+            "href" : "https://www.youtube.com/watch?v=3JG7xAfjuak"
+        },
+        {
+            "src" : "ott project images/movies/i1.jpg",
+            "alt" : "new avtar",
+            "class" : "c1",
+            "href" : "https://www.youtube.com/watch?v=3JG7xAfjuak"
+        }
+        
+       
+    ]
+}
